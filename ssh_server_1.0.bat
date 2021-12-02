@@ -5,7 +5,7 @@ REM Number of seconds to wait when each option is finished. moving between menus
 REM and exiting entirely.
 set /A exitTimeOut = 3
 
-REM SSH Menu
+REM SSH Menu v1.0
 REM By Jarrod Coombes
 REM This script is very scalable, you can add as many menus as you like, just copy and paste
 REM all the code between in the menu blocks and edit as needed.
